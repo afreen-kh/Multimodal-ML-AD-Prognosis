@@ -148,5 +148,3 @@ If you use or reference this work, please cite:
   journal={Journal of King Saud University -- Computer and Information Sciences},
   year={2020}
 }
-## 📁 Repository Structure
-

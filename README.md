@@ -103,7 +103,7 @@ The study follows a **five-stage machine learning pipeline**:
 
 ---
 
-## 🤖 Machine Learning Models Evaluated
+## Machine Learning Models Evaluated
 
 A total of 17 supervised ML classifiers, including:
 
